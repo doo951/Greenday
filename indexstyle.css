@@ -1,0 +1,45 @@
+body{
+  background-color: black;
+  color:white;
+  margin: 0;
+}
+a {
+color:white;
+text-decoration: none;
+}
+h1 {
+  background-color: black;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  margin:0;
+  padding:30px;
+  font-style: oblique;
+}
+h2 {
+  width: 217px;
+  background-color: black;
+  color: white;
+  font-style: italic;
+}
+.list {
+  text-align: center;
+  padding:40px;
+  border-bottom:1px solid white;
+  opacity: 0.3;
+}
+.text {
+  padding:20px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.back2 {
+  height: 360px;
+  overflow: hidden;
+  position: relative;
+}
+.back1 {
+  height: 360px;
+  overflow: hidden;
+  position: relative;
+}
